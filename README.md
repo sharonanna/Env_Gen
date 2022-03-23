@@ -1,3 +1,4 @@
+![terrain_map](https://user-images.githubusercontent.com/27894638/159676085-15e8c717-bb6d-4f42-bd2e-0ba778e233f6.png)
 # Env_Gen
 Environment Generator using Diamond Square Algorithm
 
